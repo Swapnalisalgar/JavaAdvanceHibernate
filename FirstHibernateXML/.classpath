@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_provided/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_provided/jboss-annotations-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_provided/jboss-jms-api_2.0_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_provided/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_required/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_required/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_required/hibernate-core-5.2.11.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_required/javassist-3.24.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_required/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_required/lucene-core-5.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_required/lucene-queryparser-5.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/Hibernate_required/xml-apis-1.3.03.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/jakarta/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/jakarta/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/JaxbRuntime/FastInfoset-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/JaxbRuntime/istack-commons-runtime-3.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/JaxbRuntime/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/JaxbRuntime/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/JaxbRuntime/jaxb-runtime-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/JaxbRuntime/stax-ex-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/JaxbRuntime/txw2-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Hibernate jar/Final_Hibernate_Jar_Files/jdbc_connector/mysql-connector-j-8.0.31.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

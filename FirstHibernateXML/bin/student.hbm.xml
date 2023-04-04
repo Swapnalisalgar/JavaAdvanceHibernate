@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+ 
+
+<hibernate-mapping>
+
+	<class name="entity.StudentVO" table="student">
+	
+	<id name="rollno" column="rno">
+		<generator class="assigned"></generator>
+	</id>
+	
+	<property name="fname" column="name"></property>
+	<property name="age"></property>
+	<property name="mobno"></property>
+	
+	</class>
+
+</hibernate-mapping>
